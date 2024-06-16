@@ -1,0 +1,17 @@
+.news-section {
+    margin-bottom: 20px;
+  }
+  
+  .news-section h2 {
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 35px;
+  }
+  
+  .news-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  

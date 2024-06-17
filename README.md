@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+GITHUB PAGES LINK: https://vishnu-adi.github.io/News-Dashboard/   
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+**[ after i deployed i found that the newsapi.org only supports local host calls and cannot be displayed on Brwosers for the free version so i have included screenshots ]**
+
+
+
+
 
 ## Available Scripts
 

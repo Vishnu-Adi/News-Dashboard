@@ -4,6 +4,7 @@ GITHUB PAGES LINK: https://vishnu-adi.github.io/News-Dashboard/
 **[ after i deployed i found that the newsapi.org only supports local host calls and cannot be displayed on Brwosers for the free version so i have included screenshots ]**
 
 
+![Uploading image.png…]()
 
 
 
